@@ -24,8 +24,15 @@
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cham1ndux&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cham1ndux&layout=compact&theme=radical)
+
+## 👀 Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=cham1ndux&color=brightgreen)
 
 ---
+
+## ✨ Random Quote  
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 🎯 **"Chasing threats, solving mysteries, and having fun along the way!"**  
 
