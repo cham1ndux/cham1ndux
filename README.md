@@ -32,6 +32,6 @@
 ---
 
 ### 📫 Let's Connect!  
-- 📧 [Email Me](mailto:your-email@example.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 [Email Me](mailto:chamindupushpikax@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/chamindu-pushpika)  
 
